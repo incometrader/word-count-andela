@@ -1,0 +1,27 @@
+{
+  "name": "words_andelabs",
+  "version": "1.0.0",
+  "description": "Function that counts occurences of each word in a string. Includes Jasmine tests.",
+  "main": "src/words",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/incometrader/word-count-andela.git"
+  },
+  "keywords": [
+    "json",
+    "count",
+    "string"
+  ],
+  "author": "Ignatius Ukwuoma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/incometrader/word-count-andela/issues"
+  },
+  "homepage": "https://github.com/incometrader/word-count-andela#readme",
+  "devDependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
